@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:opencloudcare/app.git
+[submodule "server"]
+	path = server
+	url = git@github.com:opencloudcare/server.git
+[submodule "python-server"]
+	path = python-server
+	url = git@github.com:opencloudcare/python-server.git
